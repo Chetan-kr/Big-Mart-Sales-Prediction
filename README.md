@@ -130,7 +130,7 @@ https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting
 - XGBoost Accuracy - 94.211523
 - DNN Accuracy - 90.503287
 ## Citations
-- **Walmart Recruiting - Store Sales Forecasting**
+- **Big Mart - Store Sales Forecasting**
 https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting
 
 > Written with [StackEdit](https://stackedit.io/).
